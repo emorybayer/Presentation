@@ -14,8 +14,8 @@ output:
       highlightLines: true
       countIncrementalSlides: false
     class: 
-      - "themer-better-default" # Choose a professional theme
-    dev: 'svg'  # Specify SVG as the graphics device
+      - "themer-better-default" 
+    dev: 'svg'  
 ---               
 
 ```{r setup, include = FALSE} 
